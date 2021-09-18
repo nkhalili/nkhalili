@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - :books: Studying at the University of Ottawa,
 - :battery: A blockchain enthusiast,
-- :heart_eyes: A.NET lover.
+- :heart_eyes: A .NET lover.
