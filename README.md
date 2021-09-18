@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - :books: I'm currently studying at the University of Ottawa,
 - :battery: I'm a blockchain enthusiast,
-- :heart_eyes: I'm in for open-source contributions.
+- :heart_eyes: Love .NET family.
