@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :books: I'm currently studying at the University of Ottawa,
-- :battery: I'm a blockchain enthusiast,
-- :heart_eyes: Love .NET family.
+- :books: Studying at the University of Ottawa,
+- :battery: A blockchain enthusiast,
+- :heart_eyes: A.NET lover.
