@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :books: A student,
-- :battery: A blockchain enthusiast,
-- :heart_eyes: A .NET lover.
